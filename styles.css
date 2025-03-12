@@ -39,3 +39,38 @@ button, .next, .restart {
 button:hover, .next:hover, .restart:hover {
     background: #0056b3;
 }
+
+#language-switcher {
+    position: fixed;
+    /* Fixes the element to the viewport */
+    bottom: 20px;
+    /* Places it 20px above the bottom of the screen */
+    right: 20px;
+    /* Places it 20px from the right of the screen */
+    display: flex;
+    /* Use flexbox to arrange buttons */
+    gap: 10px;
+    /* Space between the buttons */
+    z-index: 1000;
+    /* Ensures the switcher is on top of other elements */
+}
+
+#language-switcher button {
+    padding: 10px 20px;
+    /* Adds padding inside buttons */
+    background-color: #007BFF;
+    /* Blue background */
+    color: white;
+    /* White text */
+    border: none;
+    /* Removes border */
+    border-radius: 5px;
+    /* Rounded corners */
+    cursor: pointer;
+    /* Makes the button clickable */
+}
+
+#language-switcher button:hover {
+    background-color: #0056b3;
+    /* Darker blue on hover */
+}
