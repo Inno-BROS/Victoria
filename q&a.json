@@ -1,0 +1,60 @@
+{
+    "questions": [
+        {
+            "text": "насколько ты черный",
+            "answers": [
+                {
+                    "text": "очень",
+                    "type": "A"
+                },
+                {
+                    "text": "я белый",
+                    "type": "B"
+                }
+            ],
+            "next": "page2.html"
+        },
+        {
+            "text": "ты любишь vex",
+            "answers": [
+                {
+                    "text": "ем на завтрак",
+                    "type": "A"
+                },
+                {
+                    "text": "я ем грудку",
+                    "type": "C"
+                }
+            ],
+            "next": "page3.html"
+        },
+        {
+            "text": "ты пишешь стихи?",
+            "answers": [
+                {
+                    "text": "три venom под окном",
+                    "type": "B"
+                },
+                {
+                    "text": "у меня маленький словарный запас",
+                    "type": "D"
+                }
+            ],
+            "next": "result.html"
+        }
+    ],
+    "results": [
+        {
+            "text": "ты сто процентный Venom"
+        },
+        {
+            "text": "ты почти стал Venom иди качайся"
+        },
+        {
+            "text": "ты далеко от Venom но можешь стать им"
+        },
+        {
+            "text": "venom venom venom venom venom venom"
+        }
+    ]
+}
