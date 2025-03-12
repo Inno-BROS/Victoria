@@ -1,0 +1,148 @@
+{
+    "questions": [
+        {
+            "text": "Do you like bananas?",
+            "answers": [
+                {
+                    "text": "Very much",
+                    "points": 10
+                },
+                {
+                    "text": "I eat chicken breast",
+                    "points": 5
+                }
+            ]
+        },
+        {
+            "text": "Do you like overalls?",
+            "answers": [
+                {
+                    "text": "I eat them for breakfast",
+                    "points": 10
+                },
+                {
+                    "text": "I prefer skinny jeans",
+                    "points": -5
+                }
+            ]
+        },
+        {
+            "text": "Do you write poems?",
+            "answers": [
+                {
+                    "text": "Three venoms under the window",
+                    "points": 10
+                },
+                {
+                    "text": "I have a small vocabulary",
+                    "points": 5
+                }
+            ]
+        },
+        {
+            "text": "What is your height?",
+            "answers": [
+                {
+                    "text": "Above 150 cm",
+                    "points": 10
+                },
+                {
+                    "text": "Below 150 cm",
+                    "points": -5
+                }
+            ]
+        },
+        {
+            "text": "Do you wear glasses?",
+            "answers": [
+                {
+                    "text": "I'm a glasses person",
+                    "points": -10
+                },
+                {
+                    "text": "No",
+                    "points": 5
+                }
+            ]
+        },
+        {
+            "text": "What is your favorite color?",
+            "answers": [
+                {
+                    "text": "Yellow",
+                    "points": 10
+                },
+                {
+                    "text": "zzzzzzzzzzzazazapuuuummm",
+                    "points": 5
+                }
+            ]
+        },
+        {
+            "text": "Do you have friends?",
+            "answers": [
+                {
+                    "text": "I'm a cyclist",
+                    "points": 10
+                },
+                {
+                    "text": "No",
+                    "points": 5
+                }
+            ]
+        },
+        {
+            "text": "Do you like skiing?",
+            "answers": [
+                {
+                    "text": "I'm a skier",
+                    "points": 10
+                },
+                {
+                    "text": "I'm a snow maiden",
+                    "points": 5
+                }
+            ]
+        },
+        {
+            "text": "Do you like riding a BMW M5, 2019, Availability: Custom Order, Generation: VI (F90), Year: 2019, Mileage: 59,750 km, Body: Sedan, Color: Silver, Engine: 4.4L / 600 HP / Gasoline, Package: M5 SE, Tax: 90,000 ₽ / year, Transmission: Automatic, Drive: AWD, Steering: Left, Condition: No repairs needed, Owners: 1 owner, PTS: Original, Customs: Cleared",
+            "answers": [
+                {
+                    "text": "I'm a figure skater",
+                    "points": 10
+                },
+                {
+                    "text": "I'm a hockey player",
+                    "points": 5
+                }
+            ]
+        },
+        {
+            "text": "Do you send messages on VK or via carrier pigeon?",
+            "answers": [
+                {
+                    "text": "I'm a pigeon",
+                    "points": 10
+                },
+                {
+                    "text": "The VKontakte community posted a new update",
+                    "points": -5
+                }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "text": "venom venom venom venom venom venom"
+        },
+        {
+            "text": "You're already a Smesharik"
+        },
+        {
+            "text": "Purely me"
+        },
+        {
+            "text": "You're normal"
+        }
+    ]
+}
