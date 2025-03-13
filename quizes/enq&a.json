@@ -1,148 +1,330 @@
 {
     "questions": [
         {
-            "text": "Do you like bananas?",
+            "text": "Do you prefer spending time alone?",
             "answers": [
                 {
-                    "text": "Very much",
-                    "points": 10
+                    "text": "Yes, I recharge alone",
+                    "points": "I"
                 },
                 {
-                    "text": "I eat chicken breast",
-                    "points": 5
+                    "text": "No, I enjoy socializing",
+                    "points": "E"
                 }
             ]
         },
         {
-            "text": "Do you like overalls?",
+            "text": "Do you focus on details or the big picture?",
             "answers": [
                 {
-                    "text": "I eat them for breakfast",
-                    "points": 10
+                    "text": "I notice small details",
+                    "points": "S"
                 },
                 {
-                    "text": "I prefer skinny jeans",
-                    "points": -5
+                    "text": "I see the overall vision",
+                    "points": "N"
                 }
             ]
         },
         {
-            "text": "Do you write poems?",
+            "text": "Do you make decisions based on logic or emotions?",
             "answers": [
                 {
-                    "text": "Three venoms under the window",
-                    "points": 10
+                    "text": "I analyze facts and data",
+                    "points": "T"
                 },
                 {
-                    "text": "I have a small vocabulary",
-                    "points": 5
+                    "text": "I consider how people feel",
+                    "points": "F"
                 }
             ]
         },
         {
-            "text": "What is your height?",
+            "text": "Do you prefer planned schedules or spontaneity?",
             "answers": [
                 {
-                    "text": "Above 150 cm",
-                    "points": 10
+                    "text": "I like structure and plans",
+                    "points": "J"
                 },
                 {
-                    "text": "Below 150 cm",
-                    "points": -5
+                    "text": "I go with the flow",
+                    "points": "P"
                 }
             ]
         },
         {
-            "text": "Do you wear glasses?",
+            "text": "Do you enjoy deep conversations or small talk?",
             "answers": [
                 {
-                    "text": "I'm a glasses person",
-                    "points": -10
+                    "text": "I love deep discussions",
+                    "points": "I"
                 },
                 {
-                    "text": "No",
-                    "points": 5
+                    "text": "I enjoy casual chit-chat",
+                    "points": "E"
                 }
             ]
         },
         {
-            "text": "What is your favorite color?",
+            "text": "Do you trust your experiences or possibilities?",
             "answers": [
                 {
-                    "text": "Yellow",
-                    "points": 10
+                    "text": "I rely on past experiences",
+                    "points": "S"
                 },
                 {
-                    "text": "zzzzzzzzzzzazazapuuuummm",
-                    "points": 5
+                    "text": "I explore new ideas",
+                    "points": "N"
                 }
             ]
         },
         {
-            "text": "Do you have friends?",
+            "text": "Do you handle conflict with logic or empathy?",
             "answers": [
                 {
-                    "text": "I'm a cyclist",
-                    "points": 10
+                    "text": "I stay objective and rational",
+                    "points": "T"
                 },
                 {
-                    "text": "No",
-                    "points": 5
+                    "text": "I try to understand emotions",
+                    "points": "F"
                 }
             ]
         },
         {
-            "text": "Do you like skiing?",
+            "text": "Do you prefer strict plans or last-minute decisions?",
             "answers": [
                 {
-                    "text": "I'm a skier",
-                    "points": 10
+                    "text": "I need a clear plan",
+                    "points": "J"
                 },
                 {
-                    "text": "I'm a snow maiden",
-                    "points": 5
+                    "text": "I decide in the moment",
+                    "points": "P"
                 }
             ]
         },
         {
-            "text": "Do you like riding a BMW M5, 2019, Availability: Custom Order, Generation: VI (F90), Year: 2019, Mileage: 59,750 km, Body: Sedan, Color: Silver, Engine: 4.4L / 600 HP / Gasoline, Package: M5 SE, Tax: 90,000 ₽ / year, Transmission: Automatic, Drive: AWD, Steering: Left, Condition: No repairs needed, Owners: 1 owner, PTS: Original, Customs: Cleared",
+            "text": "Do you get energy from socializing?",
             "answers": [
                 {
-                    "text": "I'm a figure skater",
-                    "points": 10
+                    "text": "Not really, I get drained",
+                    "points": "I"
                 },
                 {
-                    "text": "I'm a hockey player",
-                    "points": 5
+                    "text": "Yes, I feel energized",
+                    "points": "E"
                 }
             ]
         },
         {
-            "text": "Do you send messages on VK or via carrier pigeon?",
+            "text": "Do you enjoy theoretical concepts or practical tasks?",
             "answers": [
                 {
-                    "text": "I'm a pigeon",
-                    "points": 10
+                    "text": "I love theories and ideas",
+                    "points": "N"
                 },
                 {
-                    "text": "The VKontakte community posted a new update",
-                    "points": -5
+                    "text": "I prefer hands-on experience",
+                    "points": "S"
+                }
+            ]
+        },
+        {
+            "text": "Do you prefer fairness or harmony in decisions?",
+            "answers": [
+                {
+                    "text": "Fairness matters most",
+                    "points": "T"
+                },
+                {
+                    "text": "Harmony is important",
+                    "points": "F"
+                }
+            ]
+        },
+        {
+            "text": "Do you plan your day in advance?",
+            "answers": [
+                {
+                    "text": "Yes, I like an organized schedule",
+                    "points": "J"
+                },
+                {
+                    "text": "No, I take things as they come",
+                    "points": "P"
+                }
+            ]
+        },
+        {
+            "text": "Do you feel more comfortable expressing yourself online or in person?",
+            "answers": [
+                {
+                    "text": "Online, I can think before I speak",
+                    "points": "I"
+                },
+                {
+                    "text": "In person, I love face-to-face talks",
+                    "points": "E"
+                }
+            ]
+        },
+        {
+            "text": "Do you rely on facts or intuition when solving problems?",
+            "answers": [
+                {
+                    "text": "I need concrete facts",
+                    "points": "S"
+                },
+                {
+                    "text": "I trust my instincts",
+                    "points": "N"
+                }
+            ]
+        },
+        {
+            "text": "Do you prioritize efficiency or compassion?",
+            "answers": [
+                {
+                    "text": "Efficiency, results matter",
+                    "points": "T"
+                },
+                {
+                    "text": "Compassion, people come first",
+                    "points": "F"
+                }
+            ]
+        },
+        {
+            "text": "How do you prefer to handle unexpected changes?",
+            "answers": [
+                {
+                    "text": "I stick to the original plan",
+                    "points": "J"
+                },
+                {
+                    "text": "I adapt quickly",
+                    "points": "P"
+                }
+            ]
+        },
+        {
+            "text": "Do you tend to think before speaking or speak as you think?",
+            "answers": [
+                {
+                    "text": "I carefully consider my words",
+                    "points": "I"
+                },
+                {
+                    "text": "I think aloud",
+                    "points": "E"
+                }
+            ]
+        },
+        {
+            "text": "Are you more drawn to fantasy or reality?",
+            "answers": [
+                {
+                    "text": "I love fantasy and imagination",
+                    "points": "N"
+                },
+                {
+                    "text": "I focus on real-world matters",
+                    "points": "S"
+                }
+            ]
+        },
+        {
+            "text": "Do you follow rules or find your own way?",
+            "answers": [
+                {
+                    "text": "I respect structure and rules",
+                    "points": "J"
+                },
+                {
+                    "text": "I like creating my own path",
+                    "points": "P"
+                }
+            ]
+        },
+        {
+            "text": "Do you make decisions quickly or take your time?",
+            "answers": [
+                {
+                    "text": "I decide fast, based on logic",
+                    "points": "T"
+                },
+                {
+                    "text": "I consider emotions before choosing",
+                    "points": "F"
                 }
             ]
         }
     ],
     "results": [
         {
-            "text": "venom venom venom venom venom venom"
+            "type": "INTJ",
+            "text": "You are a Mastermind - strategic, logical, and independent."
         },
         {
-            "text": "You're already a Smesharik"
+            "type": "INTP",
+            "text": "You are a Thinker - curious, analytical, and inventive."
         },
         {
-            "text": "Purely me"
+            "type": "ENTJ",
+            "text": "You are a Commander - bold, efficient, and strong-willed."
         },
         {
-            "text": "You're normal"
+            "type": "ENTP",
+            "text": "You are a Debater - energetic, spontaneous, and charismatic."
+        },
+        {
+            "type": "INFJ",
+            "text": "You are an Advocate - insightful, idealistic, and compassionate."
+        },
+        {
+            "type": "INFP",
+            "text": "You are a Mediator - creative, deep, and empathetic."
+        },
+        {
+            "type": "ENFJ",
+            "text": "You are a Protagonist - inspiring, warm, and natural leaders."
+        },
+        {
+            "type": "ENFP",
+            "text": "You are a Campaigner - enthusiastic, imaginative, and social."
+        },
+        {
+            "type": "ISTJ",
+            "text": "You are a Logistician - responsible, practical, and disciplined."
+        },
+        {
+            "type": "ISFJ",
+            "text": "You are a Defender - loyal, kind, and protective."
+        },
+        {
+            "type": "ESTJ",
+            "text": "You are an Executive - organized, strong-willed, and direct."
+        },
+        {
+            "type": "ESFJ",
+            "text": "You are a Consul - caring, social, and community-focused."
+        },
+        {
+            "type": "ISTP",
+            "text": "You are a Virtuoso - hands-on, practical, and adventurous."
+        },
+        {
+            "type": "ISFP",
+            "text": "You are an Adventurer - creative, artistic, and flexible."
+        },
+        {
+            "type": "ESTP",
+            "text": "You are an Entrepreneur - energetic, risk-taking, and persuasive."
+        },
+        {
+            "type": "ESFP",
+            "text": "You are an Entertainer - fun-loving, expressive, and spontaneous."
         }
     ]
 }

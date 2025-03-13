@@ -3,12 +3,12 @@
         "en": {
             "lost-result": "No result found",
             "ur-result": "Your result is: ",
-            "quiz-title": "Who are you by suit?"
+            "quiz-title": "Your personality type: "
         },
         "ru": {
             "lost-result": "Результат не найден",
             "ur-result": "Ваш результат: ",
-            "quiz-title": "Кто ты по масти:"
+            "quiz-title": "Твой тип личности: "
         }
     }
 }
